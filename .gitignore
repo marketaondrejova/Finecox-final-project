@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# ignore project data
+data_project.zip
+data_project/
+*.RData
