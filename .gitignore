@@ -52,3 +52,7 @@ rsconnect/
 data_project.zip
 data_project/
 *.RData
+
+# jupyter / OS junk
+.ipynb_checkpoints/
+.DS_Store
